@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-loily0.keitaro-tech-rtb.online/sitemap.xml
